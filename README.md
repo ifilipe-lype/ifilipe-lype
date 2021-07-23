@@ -5,12 +5,12 @@
 I am a self-taught Web Developer, with over a year of experience in web development, mainly using JavaScript to build websites, web applications, and mobile apps.
 I'm looking forward for new learning, experiences and challenges that can make me a better developer and an even better human being.
 
-Skills: NodeJS / MongoDB / Express / ReactJS / JS / HTML / CSS / TailwindCSS / Redis
+Skills: Nodejs / MongoDB / Express / Reactjs / JavaScript / TypeScript
 
-- 🔭 I’m currently working on https://github.com/ifilipe-lype/authentication-app 
-- 👯 I’m looking to collaborate on Nodejs Projects 
-- 🤔 I’m looking for help with getting a job as Web Developer 
-- 📫 How to reach me: ifilipe.lype@gmail.com 
+- 🔭 I’m currently working on https://github.com/ifilipe-lype/portfolio-backer 
+- 👯 I’m looking to collaborate on Nodejs, React Projects 
+- 🤔 I’m always open to new challenges, ping if got something for me 
+- 📫 How to reach me: filipe7lype@gmail.com 
 - ⚡ Fun fact: I love music, but I don't know how to dance 
 
 
