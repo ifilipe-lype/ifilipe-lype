@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Filipe André (L-Y-P-E)
 #### I am self-taught Web Developer
-![I am self-taught Web Developer](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
+![I am self-taught Software Developer](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
 
-I am a self-taught Web Developer, with over a year of experience in web development, mainly using JavaScript to build websites, web applications, and mobile apps.
+I am a self-taught Software Developer, with over a year of experience in web development, mainly using JavaScript to build websites, web applications, and mobile apps.
 I'm looking forward for new learning, experiences and challenges that can make me a better developer and an even better human being.
 
 Skills: Nodejs / MongoDB / Express / Reactjs / JavaScript / TypeScript
