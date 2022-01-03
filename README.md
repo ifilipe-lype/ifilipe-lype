@@ -3,13 +3,13 @@
 
 ![I am self-taught Software Developer](https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1010&q=80)
 
-### I'm Software Developer, specializing in web development
-In the last few months I have been developing websites, web apps, mobile apps, restfull apis...<br>
-I love learning and expermenting new stuffs that challenge me in aways that makes me a better developer and an even better human<br>
+### I'm a software developer, but I have a hidden passion for cyber security 
 
-- 🔭 I’m currently working on https://github.com/ifilipe-lype/portfolio-backer 
-- 👯 I’m looking to collaborate on Nodejs, Reactjs Projects 
-- 🤔 I’m always open to new challenges, ping me if got something for me
+I am currently engaged in the software development journey, but I am strongly leaning towards cyber security as a future career.<br/>
+I got some interesting repos, just look around (LoL)<br/>
+
+I am always open to talk about ideas, challenges, opportunities, or a simple pleasant conversation.<br/>
+Don't hesitate to contact me, thanks 
 
 
 <div style="display: inline_block"><br>
