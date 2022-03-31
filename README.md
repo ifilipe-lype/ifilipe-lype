@@ -1,7 +1,7 @@
 # Hi there 👋<br>I'm Filipe André (Lype)
 
 
-![I am self-taught Software Developer](https://images.unsplash.com/photo-1526649661456-89c7ed4d00b8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1010&q=80)
+![I am self-taught Software Developer](https://res.cloudinary.com/dvjnagd3i/image/upload/v1648747543/uc7dqlujdre0prpcxa9z.jpg)
 
 ### I'm a software developer, but I have a hidden passion for cyber security 
 
