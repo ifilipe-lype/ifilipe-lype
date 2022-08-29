@@ -3,15 +3,13 @@
 
 ![I am self-taught Software Developer](https://res.cloudinary.com/dvjnagd3i/image/upload/v1648747543/uc7dqlujdre0prpcxa9z.jpg)
 
-### I'm a software developer, but I have a hidden passion for cyber security 
-
-I am currently engaged in the software development journey, but I am strongly leaning towards cyber security as a future career.<br/>
-I got some interesting repos, just look around (LoL)<br/>
+### I'm a Software Engineer, and a CyberSecurity enthusiast
 
 I am always open to talk about ideas, challenges, opportunities, or a simple pleasant conversation.<br/>
 Don't hesitate to contact me, thanks 
 
 
+### Some of the Technologies and tools I've been using
 <div style="display: inline_block"><br>
   <img align="center" alt="Lype-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Lype-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
